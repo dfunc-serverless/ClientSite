@@ -1,5 +1,5 @@
 # ClientSite
-This is a Web application that allows clients to sceduale a job on dFunc servlesless environment. An official hosting of client website is avalible at url{www.dfunc.tech}
+This is a Web application that allows clients to sceduale a job on dFunc servlesless environment. An official hosting of client website is avalible at <www.dfunc.tech>
 ## Expectation
 - Clients are expected to compose their jobs inside a docker container and upload to DockerHub. 
 - Client is also expect to provide a triger to the application inside their docker image.
